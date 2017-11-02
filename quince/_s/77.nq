@@ -1,0 +1,1 @@
+﻿<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> <http://www.w3.org/2000/01/rdf-schema#label> "Value"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/definitions>.

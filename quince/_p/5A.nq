@@ -1,0 +1,4 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/> <http://rdfs.org/ns/void#subset> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv> <http://datadock.io/NetworkedPlanet/world-bank-dev/metadata>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/> <http://rdfs.org/ns/void#subset> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/PopulationTotal_2000.csv> <http://datadock.io/NetworkedPlanet/world-bank-dev/metadata>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/> <http://rdfs.org/ns/void#subset> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/PopulationTotal_2001.csv> <http://datadock.io/NetworkedPlanet/world-bank-dev/metadata>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/> <http://rdfs.org/ns/void#subset> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/SeriesDefinitions.csv> <http://datadock.io/NetworkedPlanet/world-bank-dev/metadata>.

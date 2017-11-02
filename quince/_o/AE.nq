@@ -1,0 +1,2 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/SWE> <http://www.w3.org/2000/01/rdf-schema#label> "Sweden"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/PopulationTotal_2001.csv/row_160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "22131970"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/PopulationTotal_2001.csv>.

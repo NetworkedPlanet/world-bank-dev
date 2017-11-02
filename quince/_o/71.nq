@@ -1,0 +1,2 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/HKG> <http://worldfacts.dbpedia.org/ontology/iso3166-a3> "HKG"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/SeriesDefinitions.csv/indicator/SE.ENR.PRSC.FM.ZS> <http://purl.org/dc/elements/1.1/identifier> "SE.ENR.PRSC.FM.ZS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/SeriesDefinitions.csv>.
