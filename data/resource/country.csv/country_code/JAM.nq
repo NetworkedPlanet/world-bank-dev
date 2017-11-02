@@ -1,0 +1,2 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/JAM> <http://worldfacts.dbpedia.org/ontology/iso3166-a3> "JAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/JAM> <http://www.w3.org/2000/01/rdf-schema#label> "Jamaica"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.

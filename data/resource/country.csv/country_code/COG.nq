@@ -1,0 +1,2 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/COG> <http://worldfacts.dbpedia.org/ontology/iso3166-a3> "COG"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/COG> <http://www.w3.org/2000/01/rdf-schema#label> "Congo, Rep."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.

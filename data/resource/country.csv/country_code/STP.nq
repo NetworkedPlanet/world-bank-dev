@@ -1,0 +1,2 @@
+﻿<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/STP> <http://worldfacts.dbpedia.org/ontology/iso3166-a3> "STP"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
+<http://datadock.io/NetworkedPlanet/world-bank-dev/id/resource/country.csv/country_code/STP> <http://www.w3.org/2000/01/rdf-schema#label> "Sao Tome and Principe"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/NetworkedPlanet/world-bank-dev/id/dataset/country.csv>.
